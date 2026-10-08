@@ -1,4 +1,4 @@
-# Aasritha — Personal Portfolio
+# Aasritha — Personal Portfolio Website
 
 A responsive, accessible personal portfolio built with HTML5, CSS3, Bootstrap 5 and vanilla JavaScript (ES6+).
 
